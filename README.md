@@ -1,4 +1,4 @@
-# Air_Quality_Detection_ML
+# Air Quality Detection using Machine Learning
 
 ## Introduction
 The "Predicting Air Quality for Health Risk Assessment: A Machine Learning Approach" project aims to classifiy the Air Quality Index (AQI) into various categories in line with Sustainability Goals. By utilizing  Decision Trees, Support Vector Machine (SVM) with Radial Basis Function (RBF) kernel, and XGBoost Models along with ARIMA for time series forecasting, this project aims to provide accurate AQI bucket classifications, which are crucial for monitoring environmental quality and public health.
@@ -70,8 +70,10 @@ Don't forget to give the project a star! Thanks again!
 
 ## Acknowledgements
 * The authors extend their heartfelt thanks to Professor Vishnu Pendyala, whose commitment to intuition-based and continuous learning has profoundly shaped their academic journey in Machine Learning. His approach of emphasizing critical thinking significantly enriched the authors' understanding and contributed to the robustness of this project. The intellectual curiosity sparked in his classes was invaluable.
-* Thanks to all the contributors who spend time to help improve this project.
+* Thanks to all the contributors who spent valuable time to help improve this project.
 * Special thanks to the data providers and researchers who have made their work available to the community.
+
+## Note: For the authors hard work in making this project an all rounder in a pool of 10 projects in terms of all aspects, they were awarded the "Outstanding Project Award".
 
 ## Authors
 - Divya Neelamegam - [@divneela](https://github.com/divneela)
